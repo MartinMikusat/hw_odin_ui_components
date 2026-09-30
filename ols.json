@@ -1,4 +1,14 @@
 {
   "enable_document_symbols": true,
-  "enable_semantic_tokens": true
+  "enable_semantic_tokens": true,
+  "collections": [],
+  "profile": "default",
+  "profiles": [
+    {
+      "name": "default",
+      "checker_path": [
+        "text_input"
+      ]
+    }
+  ]
 }

@@ -2,12 +2,6 @@
 
 Reusable, renderer-independent interaction components for Odin applications.
 
-## AI-assisted development disclosure
-
-Models used:
-
-- **gpt-5.6-sol**
-
 Each component is a separate package below this repository. Applications add
 the repository as an Odin collection and import only the packages they use.
 
