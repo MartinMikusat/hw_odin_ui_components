@@ -32,6 +32,12 @@ Applications calculate CoreText advances and pass the measured caret position
 to `update_horizontal_scroll`. They draw the returned caret and selection
 ranges with their own theme.
 
+## Calendar
+
+`calendar` holds the Gregorian month arithmetic behind date pickers: month lengths,
+weekdays, month shifting and a fixed six-week grid padded with adjacent-month days.
+Applications draw the grid and own the selected date.
+
 ## Verification
 
 ```sh

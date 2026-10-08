@@ -4,3 +4,4 @@ Run `./test.sh` for verification. Current integration and ownership contracts ar
 [README.md](README.md).
 
 - text_input/: renderer-independent UTF-8 editing and selection.
+- calendar/: Gregorian month grid arithmetic for date pickers.
