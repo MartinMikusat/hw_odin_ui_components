@@ -1,4 +1,4 @@
-package calendar
+package datepicker
 
 Date :: struct {
 	year, month, day: int,

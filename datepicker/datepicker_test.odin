@@ -1,4 +1,4 @@
-package calendar
+package datepicker
 
 import "core:testing"
 
